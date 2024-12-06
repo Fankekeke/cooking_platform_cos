@@ -8,7 +8,7 @@
               <img src="../../../static/img/logo1.png" style="height: 100px;">
             </a-col>
             <a-col :span="16">
-              <div style="text-align: left;font-size: 23px;margin-bottom: 10px;font-family: SimHei;margin-top: 30px;color: #0E65BB">尚卿美食网</div>
+              <div style="text-align: left;font-size: 23px;margin-bottom: 10px;font-family: SimHei;margin-top: 30px;color: #0E65BB">料理技巧分享平台</div>
             </a-col>
           </a-row>
         </div>
