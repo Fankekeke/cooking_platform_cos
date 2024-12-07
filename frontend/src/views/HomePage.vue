@@ -1,5 +1,5 @@
 <template>
-  <div :class="[multipage === true ? 'multi-page':'single-page', 'not-menu-page', 'home-page']" style="background-color: #b6daf5; border: none">
+  <div :class="[multipage === true ? 'multi-page':'single-page', 'not-menu-page', 'home-page']" style="background-color: #e9f8e7; border: none">
     <a-row v-if="newsList.length > 0" style="width: 65%;margin: 0 auto;margin-bottom: 15px">
       <a-col :span="22">
         <a-alert

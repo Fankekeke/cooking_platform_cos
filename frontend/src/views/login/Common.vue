@@ -4,11 +4,11 @@
       <div class="top">
         <div class="header">
           <a-row style="width: 368px;margin: 0 auto">
-            <a-col :span="8">
-              <img src="../../../static/img/logo1.png" style="height: 100px;">
-            </a-col>
-            <a-col :span="16">
-              <div style="text-align: left;font-size: 23px;margin-bottom: 10px;font-family: SimHei;margin-top: 30px;color: #0E65BB">料理技巧分享平台</div>
+<!--            <a-col :span="8">-->
+<!--              <img src="../../../static/img/logo1.png" style="height: 100px;">-->
+<!--            </a-col>-->
+            <a-col :span="24">
+              <div style="text-align: center;font-size: 23px;margin-bottom: 10px;font-family: SimHei;margin-top: 30px;color: #669802">料理技巧分享平台</div>
             </a-col>
           </a-row>
         </div>
@@ -55,7 +55,7 @@ export default {
     flex-direction: column;
     height: 100vh;
     overflow: auto;
-    background-color: #b6daf5;
+    background-color: #e9f8e7;
     background-repeat: repeat-x, repeat;
     .content {
       padding: 32px 0;
